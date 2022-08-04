@@ -1,0 +1,43 @@
+/** Spacing **/
+.ml-20 {
+	margin-left: 20px;
+}
+
+.pb-50 {
+	padding-bottom: 50px;
+}
+.pt-50 {
+	padding-top: 50px;
+}
+.w-60 {
+	width: 60%;
+}
+.w-35 {
+	width: 35%;
+}
+.mb-15 {
+	margin-bottom: 15px;
+}
+.mb-50 {
+	margin-bottom: 50px;
+}
+.pt-15 {
+	padding-top: 15px;
+}
+.pb-15 {
+	padding-bottom: 15px;
+}
+.mr-50 {
+	margin-right: 50px;
+}
+.w-100 {
+	width: 100%;
+}
+.pb-10 {
+	padding-bottom: 10px;
+}
+.pt {
+	padding-top: 10px;
+}
+
+/** End Spacing **/

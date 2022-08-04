@@ -1,0 +1,65 @@
+.box {
+	border: 1px red dotted;
+}
+
+body {
+	font-family: "Century Gothic", sans-serif;
+}
+
+ul {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+
+nav a{
+	color: #0471c2;
+}
+
+.main-nav {
+	border-bottom: 1px #e1e1e1 solid;
+	padding: 8px 0px ;
+}
+
+.container {
+	width: 800px;
+}
+
+.footer {
+	width: 100%;
+	position: relative;
+	bottom: 0px;
+	font-size: 12px;
+}
+.address-text {
+	max-width: 250px;
+	font-size: 13px;
+	font-style: normal;
+}
+.conatiner-fluid {
+	width: 100%;
+}
+
+.form-control {
+	min-height: 30px;
+	font-size: 16px;
+	padding-left: 10px;
+	box-sizing: border-box;
+}
+.maillist {
+	font-size: 13px;
+}
+.submit {
+	font-size: 16px;
+	border-radius: 5px;
+	text-align: center;
+}
+.bodybg {
+
+  background-image: url('../images/cutedog.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+}
+

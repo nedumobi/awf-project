@@ -1,0 +1,29 @@
+.centered {
+
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.clear-float::after {
+	display: block;
+	content: "";
+	clear: both;
+}
+
+.centered-text {
+	text-align: center;
+}
+.images-direction {
+	display: flex;
+}
+.float-bottom {
+	float: bottom;
+}
